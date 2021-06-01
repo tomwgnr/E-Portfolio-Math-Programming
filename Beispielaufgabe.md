@@ -47,7 +47,7 @@ Jun | 500 | 500 | 100 | 300 | 1100 | 500 | 60 |
 
 ### Lagerung: 
 
-- 50 Einheiten pro Produkt
+- 100 Einheiten pro Produkt
 - Kosten: 0.50 €
 - Januar: Lager leer
 - Juni: 50 Einheiten
